@@ -3,6 +3,8 @@
 # This is an example Docker file for Weaviate with all OpenAI modules enabled
 # You can, but don't have to set `OPENAI_APIKEY` because it can also be set at runtime
 #
+# Find the latest version here: https://weaviate.io/developers/weaviate/installation/docker-compose
+#
 #################
 ---
 version: '3.4'
