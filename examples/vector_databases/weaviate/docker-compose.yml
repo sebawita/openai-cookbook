@@ -28,5 +28,6 @@ services:
       DEFAULT_VECTORIZER_MODULE: 'text2vec-openai'
       ENABLE_MODULES: 'text2vec-openai,qna-openai'
       CLUSTER_HOSTNAME: 'openai-weaviate-cluster'
-      OPENAI_APIKEY: sk-foobar # this parameter is optional, as you can also provide it at insert/query time
+      # The following parameter (`OPENAI_APIKEY`) is optional, as you can also provide it at insert/query time
+      # OPENAI_APIKEY: sk-foobar 
 ...
