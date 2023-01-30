@@ -16,4 +16,5 @@ This folder contains a variety of Weaviate and OpenAI examples.
 | --- | --- | --- |
 | [Getting Started with Weaviate and OpenAI](./getting-started-with-weaviate-and-openai.ipynb) | A simple getting started for *semantic vector search* using the OpenAI vectorization module in Weaviate (`text2vec-openai`) | Python Notebook |
 | [Hybrid Search with Weaviate and OpenAI](./hybrid-search-with-weaviate-and-openai.ipynb) | A simple getting started for *hybrid search* using the OpenAI vectorization module in Weaviate (`text2vec-openai`) | Python Notebook |
+| [Question Answering with Weaviate and OpenAI](./question-answering-with-weaviate-and-openai.ipynb) | A simple getting started for *question answering (Q&A)* using the OpenAI Q&A module in Weaviate (`qna-openai`) | Python Notebook |
 | [Docker-compose example](./docker-compose.yml) | A Docker-compose file with all OpenAI modules enabled | Docker |
